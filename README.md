@@ -1,4 +1,4 @@
-b.Tech 3 year 1 semister
+b.Tech 3 year 1 semester
 Subject:Devops lab
 Experiment no: 2
 About:
